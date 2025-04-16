@@ -38,3 +38,90 @@
 11. **Checked Cost Management**  
     Went to *Cost Management > Cost Analysis* to confirm there were no remaining costs.
 
+# 🚀 Azure Hands-On Setup (via Portal + CLI)
+
+This repo documents how I set up and managed resources on Azure using the Azure Portal and the CLI.
+
+---
+
+## 🔧 What I Did
+
+### 1. Create Azure Account  
+👉 [Sign up here](https://azure.microsoft.com/en-us/free/)
+
+---
+
+### 2. Login to Azure via CLI
+
+images/azure1-img.png
+
+---
+
+### 3. Create a Resource Group
+
+(images/azure2-img.png)
+
+---
+
+
+### 4. Create a Storage Account
+
+(images/azure4-img.png)
+
+---
+
+
+### 5. Create a Container
+
+
+(images/azure5-img.png)
+
+---
+
+
+### 6. Upload a File
+
+
+(images/azure6-img.png)
+
+---
+
+
+### 7. Edit the File in NEOVIM
+
+
+(images/azure7-img.png)
+
+OR 
+
+(images/azure10-img.png)
+
+---
+
+
+### 8. Download the File (to verify edits)
+
+
+(images/azure11-img.png)
+
+(images/azure12-img.png)
+
+---
+
+
+### 9. Delete the Resource Group (Clean-up)
+
+(images/azure8-img.png)
+
+(images/azure13-img.png)
+
+
+---
+
+
+### 10. Check for Costs
+
+
+(images/azure14-img.png)
+
+---
