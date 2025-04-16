@@ -53,20 +53,20 @@ This repo documents how I set up and managed resources on Azure using the Azure 
 
 ### 2. Login to Azure via CLI
 
-images/azure1-img.png
+![LOGIN TO AZURE](images/azure1-img.png)
 
 ---
 
 ### 3. Create a Resource Group
 
-(images/azure2-img.png)
+![Create Resource Group](images/azure2-img.png)
 
 ---
 
 
 ### 4. Create a Storage Account
 
-(images/azure4-img.png)
+![Create Storage Account](images/azure4-img.png)
 
 ---
 
@@ -74,7 +74,7 @@ images/azure1-img.png
 ### 5. Create a Container
 
 
-(images/azure5-img.png)
+![Create A Container](images/azure5-img.png)
 
 ---
 
@@ -82,7 +82,7 @@ images/azure1-img.png
 ### 6. Upload a File
 
 
-(images/azure6-img.png)
+![Upload File](images/azure6-img.png)
 
 ---
 
@@ -90,11 +90,11 @@ images/azure1-img.png
 ### 7. Edit the File in NEOVIM
 
 
-(images/azure7-img.png)
+![Edit The File In NeoVim](images/azure7-img.png)
 
 OR 
 
-(images/azure10-img.png)
+![Alternatively](images/azure10-img.png)
 
 ---
 
@@ -102,18 +102,18 @@ OR
 ### 8. Download the File (to verify edits)
 
 
-(images/azure11-img.png)
+![Download The File To Verify Edits](images/azure11-img.png)
 
-(images/azure12-img.png)
+![Download The File To Verify Edits](images/azure12-img.png)
 
 ---
 
 
 ### 9. Delete the Resource Group (Clean-up)
 
-(images/azure8-img.png)
+![Delete The Resource Group](images/azure8-img.png)
 
-(images/azure13-img.png)
+![Delete The Resource Group](images/azure13-img.png)
 
 
 ---
@@ -122,6 +122,6 @@ OR
 ### 10. Check for Costs
 
 
-(images/azure14-img.png)
+![Check For Costs](images/azure14-img.png)
 
 ---
